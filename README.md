@@ -1,2 +1,3 @@
-# slickjs-image-gallery
+# Slickjs image gallery
+
 Image Gallery using SlickJS library.
